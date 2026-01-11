@@ -38,6 +38,6 @@ face_recognition_attendance/
 │   ├── se.jpg
 │   ├── pm.jpg
 │   └── cm.jpg
-├── attendance_system.py
+├── face.py
 ├── YYYY-MM-DD.csv
 └── README.md
